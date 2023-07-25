@@ -1,0 +1,41 @@
+body{
+    padding: 0px;
+    margin: 0px;
+    background-color: #1E1E24;
+    text-align: center;
+}
+
+h1 {
+    font-family: jumbotron;
+    font-weight: 18px;
+    color: mediumaquamarine;
+    text-transform:uppercase;
+    border: 1px solid black;
+    border-radius: 10px;
+}
+
+h2{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color:forestgreen;
+    border: 1px solid black;
+    border-radius: 10px;
+    background-color: #1E1E24;
+}
+
+.peanut-img {
+    border: 1px solid black;
+    border-radius: 10px;
+    display: inline;
+}
+
+.junie-img {
+    border: 1px solid black;
+    border-radius: 10px;
+    display: inline;
+}
+
+p {
+    font-family: helvetica;
+    font-size: 18px;
+    color:blueviolet;
+}
